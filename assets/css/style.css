@@ -620,6 +620,9 @@
       max-width: 33.33%;
       display: flex;
     }
+    .project-item{
+      margin-bottom: 50px;
+    }
     .projects .project-item .project-item-inner{
       border-radius: var(--border-radius);
       padding: var(--card-padding);

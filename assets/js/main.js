@@ -36,7 +36,7 @@ function scrollHeader(){
 }
 window.addEventListener("scroll" , scrollHeader)
 /*=============== TESTIMONIAL SWIPER ===============*/
-var swiper = new Swiper(".projects-wrapper", {
+var swiper = new swiper(".testimonial-wrapper", {
     loop:"true",
     pagination: {
       el: ".swiper-pagination",
